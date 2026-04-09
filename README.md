@@ -1,4 +1,4 @@
-# KI for prosjektledere (Tekna) 🚀
+# KI for prosjektledere (Tekna i samarbeid med Sopra Steria) 🚀
 
 Velkommen til kurset!
 
