@@ -1,4 +1,5 @@
-# KI for prosjektledere (<img width="83,2" height="24,2" alt="images" src="https://github.com/user-attachments/assets/bd685536-7e07-4789-a991-45f95990933c" /> i samarbeid med <img width="90" height="60" alt="Sopra_Steria-Logo wine" src="https://github.com/user-attachments/assets/48a8f893-3286-45da-9a7b-a8b3f2824082" />
+# KI for prosjektledere (<img width="83,2" height="24,2" alt="images" src="https://github.com/user-attachments/assets/bd685536-7e07-4789-a991-45f95990933c" /> i samarbeid med <img width="246,3" height="41,1" alt="Sopra_Steria-Logo wine" src="https://github.com/user-attachments/assets/f057df84-32e8-4e5b-be05-dd5dfbce6d79" />
+
 
 
 
