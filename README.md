@@ -12,11 +12,11 @@ Dette er den sentrale huben for alt kursmateriell du trenger i løpet av dagen. 
 
 ---
 
-### 📥 Slik laster du ned filene
+### 📥 Slik laster du ned filer til bruk i case
 Siden dette ikke er et utviklerkurs, trenger du ikke å "clone" eller bruke terminal.
-1. Klikk på den grønne knappen det står **"Code"** på (øverst til høyre).
-2. Velg **"Download ZIP"**.
-3. Pakk ut filen på din egen maskin – nå er du klar til oppgavene!
+1. Klikk på filen du skal laste ned. (øverst til høyre).
+2. Velg **"Last ned"** (øverst til høyre).
+3. Evt. pakk ut filen på din egen maskin (dersom ZIP)
 
 ---
 
