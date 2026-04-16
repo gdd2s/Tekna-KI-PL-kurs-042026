@@ -8,8 +8,8 @@ I denne oppgaven skal du opprette en spesialisert Copilot-agent for det fiktive 
 Før vi starter i Copilot, må du ha kildematerialet klart.
 
 1.  Finn mappen for Prosjekt Abacus her på GitHub.
-2.  Last ned **zip-filen** som inneholder prosjektdokumentasjonen.
-3.  **Viktig:** Høyreklikk på zip-filen og velg **"Pakk ut alle"** (Unzip). Du må ha de enkelte filene tilgjengelige for opplasting.
+2.  Klikk på og så last ned **zip-filen** som inneholder prosjektdokumentasjonen.
+3.  **Viktig:** Etter nedlasting, høyreklikk på zip-filen og velg **"Pakk ut alle"** (Unzip). Du må ha de enkelte filene tilgjengelige for opplasting.
 4.  Sørg også for at du har filene `agent-beskrivelse.txt` og `agent-instruksjoner.txt` lett tilgjengelige.
 
 ---
