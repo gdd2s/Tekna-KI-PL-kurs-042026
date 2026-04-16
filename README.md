@@ -7,8 +7,8 @@ Dette er den sentrale huben for alt kursmateriell du trenger i løpet av dagen. 
 ---
 
 ### 📂 Innhold i denne mappen
-* **00_Vint (Interaktive oppgaver)** vår digitale arena for Interaktiv deltakelse og felles innsikt
-* **01_Agent til Prosjekt "Abacus":** Detaljert bakgrunnsinformasjon om prosjektet vi skal jobbe med.
+* **00_Vint (Interaktive oppgaver)** Vår digitale arena for Interaktiv deltakelse og felles innsikt.
+* **01_Agent til Prosjekt "Abacus":** Veiledning til agent opprettelse og komplett prosjektdokumentasjon.
 * **02_Innboks caseoppgaver:** Last opp output fra caseoppgaver her.
 
 ---
