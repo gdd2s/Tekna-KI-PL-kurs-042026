@@ -1,4 +1,4 @@
-# KI for prosjektledere (Tekna i samarbeid med Sopra Steria) <img width="83,2" height="24,2" alt="images" src="https://github.com/user-attachments/assets/bd685536-7e07-4789-a991-45f95990933c" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c55e9b04-b2a2-46ec-998d-28b023d4da0d" />
+# KI for prosjektledere (<img width="83,2" height="24,2" alt="images" src="https://github.com/user-attachments/assets/bd685536-7e07-4789-a991-45f95990933c" /> i samarbeid med <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c55e9b04-b2a2-46ec-998d-28b023d4da0d" />
 
 
 
