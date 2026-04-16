@@ -10,6 +10,7 @@ Dette er den sentrale huben for alt kursmateriell du trenger i løpet av dagen. 
 * **00_Vint (Interaktive oppgaver)** Vår digitale arena for Interaktiv deltakelse og felles innsikt.
 * **01_Agent til Prosjekt "Abacus":** Veiledning til agent opprettelse og komplett prosjektdokumentasjon.
 * **02_Innboks caseoppgaver:** Last opp output fra caseoppgaver her.
+* **03_Presentasjon fra kurset:** Last ned lysbildene fra kurset som PDF.
 
 ---
 
