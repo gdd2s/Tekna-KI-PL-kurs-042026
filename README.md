@@ -7,7 +7,7 @@ Dette er den sentrale huben for alt kursmateriell du trenger i løpet av dagen. 
 ---
 
 ### 📂 Innhold i denne mappen
-* **01_Case_Beskrivelse:** Detaljert bakgrunnsinformasjon om prosjektet vi skal jobbe med.
+* **01_Agent til Prosjekt "Abacus":** Detaljert bakgrunnsinformasjon om prosjektet vi skal jobbe med.
 * **02_Risikoanalyse:** Maler og ustrukturerte data for risikovurdering.
 * **03_Kommunikasjon:** Utkast til interessentanalyser og statusrapporter.
 * **04_Maler:** Prompt-guider og sjekklister for daglig bruk.
