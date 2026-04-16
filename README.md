@@ -9,8 +9,6 @@ Dette er den sentrale huben for alt kursmateriell du trenger i løpet av dagen. 
 ### 📂 Innhold i denne mappen
 * **01_Agent til Prosjekt "Abacus":** Detaljert bakgrunnsinformasjon om prosjektet vi skal jobbe med.
 * **02_Innboks caseoppgaver:** Last opp output fra caseoppgaver her.
-* **03_Kommunikasjon:** Utkast til interessentanalyser og statusrapporter.
-* **04_Maler:** Prompt-guider og sjekklister for daglig bruk.
 
 ---
 
