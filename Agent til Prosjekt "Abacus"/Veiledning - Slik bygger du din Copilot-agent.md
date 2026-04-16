@@ -16,9 +16,10 @@ Før vi starter i Copilot, må du ha kildematerialet klart.
 
 ### Steg 2: Start opprettelse av ny agent
 1.  Åpne Copilot i din nettleser: https://m365.cloud.microsoft/ eller https://copilot.microsoft.com/
-2.  I navigasjonsruten til venstre, klikk på **"Ny agent"** (eller pluss-tegnet).
-3.  Du vil nå se to valg øverst: "Beskriv" og "Konfigurer".
-4.  **Velg "Konfigurer"-modus.** (Vi skal legge inn instruksene manuelt for maksimal presisjon).
+2.  Sikre at du er pålogget med din organisasjonskonto
+3.  I navigasjonsruten til venstre, klikk på **"Ny agent"** (eller pluss-tegnet).
+4.  Du vil nå se to valg øverst: "Beskriv" og "Konfigurer" (.
+5.  **Velg "Konfigurer"-modus.** (Vi skal legge inn instruksene manuelt for maksimal presisjon).
 
 ---
 
