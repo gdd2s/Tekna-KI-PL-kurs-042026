@@ -56,7 +56,21 @@ For å unngå at agenten begynner å gjette eller henter generell informasjon fr
 
 ---
 
-### Steg 6: Ferdigstill og test
+### Steg 6: Aktiver agentens produksjonsfunksjoner
+
+Som standard kan en Copilot-agent svare med tekst, men ikke nødvendigvis produsere ferdige filer eller bilder. For å la agenten levere de artefaktene vi skal jobbe med (Word-dokumenter, Excel-tabeller, PowerPoint-slides og illustrasjoner), må vi slå på to funksjoner.
+
+1.  Finn seksjonen **"Funksjoner"** i konfigurasjonen av agenten din.
+2.  Slå **PÅ** følgende to brytere:
+    *   **"Opprett dokumenter, diagrammer og kode"** — lar agenten generere Word-, Excel- og PowerPoint-filer, samt analysere data og lage formler.
+    *   **"Opprett bilder"** — lar agenten generere visuelle hjelpemidler som illustrasjoner og grafikk.
+3.  Begge bryterne skal være blå/aktive før du går videre.
+
+> 💡 *Hvorfor dette steget? Uten disse funksjonene vil agenten kunne **beskrive** en prosjektplan eller en interessentanalyse i tekst, men ikke gi deg den som en faktisk Word- eller PowerPoint-fil. Vi skal produsere konkrete leveranser i kurset — derfor trenger vi disse på.*
+
+---
+
+### Steg 7: Ferdigstill og test
 1.  Klikk på knappen **"Opprett"** (eller Lagre).
 2.  Gratulerer! Du har nå din egen "Prosjektstøtte"-agent.
 3.  Prøv å stille den et spørsmål, for eksempel: *"Hva er de viktigste milepælene i Prosjekt Abacus de neste tre månedene?"*
